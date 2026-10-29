@@ -1,0 +1,9 @@
+# 录音和日志
+data/
+*.log
+# 本机私密笔记（服务器地址、链接密钥）
+NOTES.local.md
+# 杂项
+__pycache__/
+*.pyc
+.DS_Store
