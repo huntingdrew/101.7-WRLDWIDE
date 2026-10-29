@@ -11,6 +11,13 @@
   <img src="docs/shot-wukang-road.jpg" width="230" alt="Wukang Road">
 </p>
 
+> **Can't be bothered to host it? Just use mine:**
+> **https://159-203-11-150.sslip.io/n9o7y7779rr9/**
+>
+> Open it in Safari, "Share → Add to Home Screen" and treat it as an app. "My time" follows your phone's
+> time zone, so New York, Vancouver and London each get their own 7 am; east of Shanghai you simply get the
+> live stream. It runs on a $4/month box, a few dozen listeners are fine, and if it ever gets crowded I'll upgrade.
+
 ## Why this exists
 
 I grew up in Kunshan, just outside Shanghai. Every school run, there and back, my mum's car radio was on
@@ -56,6 +63,8 @@ No magic, just "record now, play later":
   tap brings it back.
 
 ## Run your own
+
+If you would rather not, the link above is yours to use.
 
 ### On a server (recommended)
 
